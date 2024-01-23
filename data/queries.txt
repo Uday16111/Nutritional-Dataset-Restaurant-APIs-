@@ -1,0 +1,113 @@
+Idli
+Dosa
+Poha
+Upma
+pongal
+Paratha
+Puri
+Dhokla
+Sabudana 
+Khichdi
+Vada Pav
+Chole 
+Omelette
+Vada
+Aloo Paratha
+Paneer
+Moong Dal
+Bread Pakora
+Sev
+Appam
+Sandwich
+Besan
+Chicken Tikka
+Paneer Tikka
+Vegetable Samosa
+Tandoori Chicken
+PaniPuri
+Seekh Kebab
+Fish
+Bhaji
+Lamb Chops
+Kebab
+Shami Kebab
+Corn
+Mozzarella Sticks
+Egg 
+Pakora
+Broccoli
+apple 
+banana 
+pineapple 
+strawberry 
+orange 
+mango  
+avocado 
+kiwi 
+peach 
+watermelon 
+grapes 
+papaya 
+pomegranate 
+cherry 
+jackfruit
+Gulab Jamun
+Jalebi
+Kheer
+Halwa 
+Carrot Halwa
+Ladoo
+ice cream
+chocolate ice cream
+vanilla ice cream
+butterscotch ice cream
+strawberry ice cream
+banana ice cream
+mint ice cream
+pistachio ice cream
+dark chocolate
+mango ice cream
+coconut ice cream
+Butter Chicken
+Chicken Tikka Masala
+Rogan Josh 
+Palak Paneer 
+Dal Makhani 
+Biryani 
+Chicken Biryani
+Tandoori Chicken
+Aloo Gobi 
+Chana Masala 
+Paneer Tikka
+Kofta 
+Mutton Curry
+Chicken Curry
+Vegetable Curry
+beef curry
+Vegetable Biryani
+Egg Curry
+Bharta 
+Fish Curry
+Shahi Paneer
+Keema
+Rajma
+Roti 
+Naan 
+Paratha
+nihari
+chicken vindaloo
+aloo Paratha
+Pizza
+Chicken Pizza
+vegetable pizza
+cheese pizza
+pepperoni pizza
+margherita pizza
+bbq chicken pizza
+hawaiian pizza
+supreme pizza
+burger
+cheese burger
+chicken sandwich
+meat sandwich
+fish sandwich
